@@ -1,7 +1,11 @@
 # Marco 01
 
 ## Integrantes
-
+* [Mateus Coelho Vitória](https://github.com/M4t3usC0)
+* [Mauricio Lamberti da Silva Beutler](https://github.com/Beutler28)  
+* [Ricardo Luiz Hentges Costa](https://github.com/ricardolhc)
+* [Tales Schifelbein Soares](https://github.com/talessoares)
+* [Antonio Francisco Flores Zubiaurre](https://github.com/Francisco1669)
 
 ## Problema: Processo de Testes Unitários em Sistema de Simulação de Veículos de Luxo
 
